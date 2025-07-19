@@ -1,7 +1,7 @@
 # J-Runner with Extras
 The Ultimate RGH/JTAG App
 
-NOTE: THIS PROJECT IS NO LONGER UNDER DEVELOPMENT BY OCTAL450. Work is being continued by Mena from PhenomMod. Click [HERE](https://github.com/Pheeeeenom/J-Runner-with-Extras) to view the new repo.
+NOTE: This branch of JRunner maintains the last update done by Octal450. This branch retains version V3.3.0-r4 permanently.
 
 System Requirements:
 - x86 based Windows PC (i386 or amd64)
